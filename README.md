@@ -1,12 +1,12 @@
-# Top Crypto Daily Gainers and Losers 
+# Crypto Daily Gainers and Losers Curator
 I created this simple script that scraps top 20 gainers and losers using CoinGecko API and provide output in modern, simple bubblistic UI. 
 # Demo
 
 # Featues
 
-# Installation Guide
+# How to Use
 
-# Contribute l
+# Contribute
 
 This is open-source, you can contribute too.
 
