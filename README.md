@@ -16,9 +16,9 @@ It requires no customization; just run the code.
 
 - Install **Pydroid** from the Play Store.
 
-- Import your CDGL script
+- Import your CTDGL script
 
-- Run it
+- **Run** it
 
 - The result will be saved in the "**Download**" folder of your device.
 device
